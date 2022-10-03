@@ -2,7 +2,28 @@
 
 **` Šikulkošák `**
 
-### Hi there 👋
+Right now I am not yet a skillfull fellow, but rather a person ready to learn tons of new skills and ready to gather lots of experience.
+I am currently learning and leaning towards "Basic Web Development" as well as an easy python programming, but i am hoping to learn lot more in future.
+Also I am really focused on self development and "outside profession" hobbies and skills.
+
+
+
+< align="left">
+<a href="https://www.youtube.com/channel/UCPqUYZrbg9u-2B4JC7kVtyw">
+  
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **MigelusMaximus/MigelusMaximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
