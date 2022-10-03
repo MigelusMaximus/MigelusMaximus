@@ -2,6 +2,7 @@
 
 # Migelus Maximus
 </div>
+
 **` Šikulkošák `**
 
 Right now I am not yet a skillfull fellow, but rather a person ready to learn tons of new skills and ready to gather lots of experience.
