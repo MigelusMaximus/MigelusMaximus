@@ -1,3 +1,7 @@
+h1 {
+ font-size: 40px;
+}
+
 # Migelus Maximus
 
 **` Šikulkošák `**
