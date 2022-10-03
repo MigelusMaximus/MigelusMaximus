@@ -1,4 +1,8 @@
-<div>
+.name {
+  font-size: 40px;
+}
+
+<div class="name">
 
 # Migelus Maximus
 </div>
