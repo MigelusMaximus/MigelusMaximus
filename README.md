@@ -1,4 +1,4 @@
-<div font-size: 40px;>
+<div font-size: 100px;>
 
 # Migelus Maximus
 </div>
