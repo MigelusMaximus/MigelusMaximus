@@ -8,7 +8,7 @@ Also I am really focused on self development and "outside profession" hobbies an
 
 
 
-< align="left">
+<p align="left">
 <a href="https://www.youtube.com/channel/UCPqUYZrbg9u-2B4JC7kVtyw">
   
 </p>
