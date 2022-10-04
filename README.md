@@ -10,7 +10,7 @@ I am currently learning and leaning towards "Basic Web Development" as well as a
 Also I am really focused on self development and "outside profession" hobbies and skills.
 
 
-<img src="https://c.tenor.com/xikktMA6VY8AAAAd/pantheon.gif"
+<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg"
      alt="Pantheon"
      title="Pantheon, the Unbreakable Spear"
 />
