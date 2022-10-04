@@ -10,6 +10,12 @@ I am currently learning and leaning towards "Basic Web Development" as well as a
 Also I am really focused on self development and "outside profession" hobbies and skills.
 
 
+<audio controls>
+  <source src="https://www.youtube.com/watch?v=9Zub8agQjrw" type="audio/ogg">
+  <source src="https://www.youtube.com/watch?v=9Zub8agQjrw" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
