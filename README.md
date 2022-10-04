@@ -9,18 +9,6 @@ Right now I am not yet a skillfull fellow, but rather a person ready to learn to
 I am currently learning and leaning towards "Basic Web Development" as well as an easy python programming, but i am hoping to learn lot more in future.
 Also I am really focused on self development and "outside profession" hobbies and skills.
 
-<a href="https://www.youtube.com/watch?v=3V1HCcAw4R4">
-<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg"
-     alt="Pantheon"
-     title="Pantheon, the Unbreakable Spear"
-/>
-</a>
-<audio controls>
-  <source src="https://www.youtube.com/watch?v=9Zub8agQjrw" type="audio/ogg">
-  <source src="https://www.youtube.com/watch?v=9Zub8agQjrw" type="audio/mpeg">
-  Your browser does not support the audio tag.
-</audio>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -37,6 +25,22 @@ Also I am really focused on self development and "outside profession" hobbies an
 </p>
 
 <br/>
+
+
+
+<a href="https://www.youtube.com/watch?v=3V1HCcAw4R4">
+<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg"
+     alt="Pantheon"
+     title="Pantheon, the Unbreakable Spear"
+/>
+</a>
+<audio controls>
+  <source src="https://www.youtube.com/watch?v=9Zub8agQjrw" type="audio/ogg">
+  <source src="https://www.youtube.com/watch?v=9Zub8agQjrw" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
+
 
 
 
