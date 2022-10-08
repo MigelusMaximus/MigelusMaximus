@@ -27,7 +27,7 @@ Also I am really focused on self development and "outside profession" hobbies an
 <br/>
 
 
-
+<p>
 <a href="https://www.youtube.com/watch?v=3V1HCcAw4R4">
 <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg"
      alt="Pantheon"
@@ -41,7 +41,7 @@ Also I am really focused on self development and "outside profession" hobbies an
 </audio>
 
 
-
+</p>
 
 
 
