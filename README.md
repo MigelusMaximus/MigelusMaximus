@@ -59,6 +59,8 @@ Also I am really focused on self development and "outside profession" hobbies an
 
 
 <br/>
+
+
 ---
 ### Games
 <a href="https://www.leagueofgraphs.com/summoner/eune/Darilin#championsData-all-queues">
