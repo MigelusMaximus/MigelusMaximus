@@ -6,7 +6,7 @@
 **` Šikulkošák `**
 
 Right now I am not yet a skillfull fellow, but rather a person ready to learn tons of new skills and ready to gather lots of experience.
-I am currently learning and leaning towards "Basic Web Development" as well as an easy python programming, but i am hoping to learn lot more in future.
+I am currently learning and leaning towards "Basic Web Development" as well as an easy python programming, but i am hoping to learn a lot more in future.
 Also I am really focused on self development and "outside profession" hobbies and skills.
 
 <!-- Social icons section -->
@@ -26,7 +26,8 @@ Also I am really focused on self development and "outside profession" hobbies an
 
 <br/>
 
-
+<!-- Pantheon Image -->
+<!--
 <p>
 <a href="https://www.youtube.com/watch?v=3V1HCcAw4R4">
 <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg"
@@ -43,13 +44,13 @@ Also I am really focused on self development and "outside profession" hobbies an
 
 </p>
 
+-->
 
 
 
 
 
-
-
+<!-- Languages Section -->
 ---
   
  ### Languages
@@ -63,8 +64,9 @@ Also I am really focused on self development and "outside profession" hobbies an
 <br>
 
 
+<!-- Games I play -->
 ---
-### Games
+### Games I use to chill to
 <a href="https://www.leagueofgraphs.com/summoner/eune/Darilin#championsData-all-queues">
  <img align="left" alt="HTML5" width="60px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flutris.net%2Fmedia%2Fgames%2Ficons%2Fleagueoflegends-icon.png&f=1&nofb=1&ipt=f7d17f3c5a5f01cde0d74f949e7870e7fe0f74a8d6b3068cddc812e7e3ac85b3&ipo=images"/>
   </a>
