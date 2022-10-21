@@ -75,6 +75,14 @@ Also I am really focused on self development and "outside profession" hobbies an
  <img align="left" alt="HTML5" width="60px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flutris.net%2Fmedia%2Fgames%2Ficons%2Fleagueoflegends-icon.png&f=1&nofb=1&ipt=f7d17f3c5a5f01cde0d74f949e7870e7fe0f74a8d6b3068cddc812e7e3ac85b3&ipo=images"/>
   </a>
 
+
+
+---
+## Things I am doing rght now
+Learning: The Web Developer Bootcamp 2022 (https://www.udemy.com/course-dashboard-redirect/?course_id=625204)
+Working on: My first Personal Website: https://alpha.kts.vspj.cz/~kurak/
+
+
 <!--
 **MigelusMaximus/MigelusMaximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
