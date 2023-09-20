@@ -12,6 +12,9 @@ Also I am really focused on self development and "outside profession" hobbies an
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/channel/UCPqUYZrbg9u-2B4JC7kVtyw/videos"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+          
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
