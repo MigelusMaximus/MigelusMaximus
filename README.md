@@ -3,8 +3,8 @@
 # 👑 Migelus Maximus 🗡
 </div>
 
-** NOT UP TO DATE - WIP Section** {
-**` Šikulkošák `**
+**` NOT UP TO DATE - WIP Section`** {
+
 
 Right now I am not yet a skillfull fellow, but rather a person ready to learn tons of new skills and ready to gather lots of experience.
 I am currently learning and leaning towards "Basic Web Development" as well as an easy python programming, but i am hoping to learn a lot more in future.
