@@ -3,13 +3,13 @@
 # 👑 Migelus Maximus 🗡
 </div>
 
-**` NOT UP TO DATE - WIP Section`** {
+**` NOT UP TO DATE - WIP Section due to beeing Outdated, was made a long time ago`** 
 
 
 Right now I am not yet a skillfull fellow, but rather a person ready to learn tons of new skills and ready to gather lots of experience.
 I am currently learning and leaning towards "Basic Web Development" as well as an easy python programming, but i am hoping to learn a lot more in future.
 Also I am really focused on self development and "outside profession" hobbies and skills.
-}
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/channel/UCPqUYZrbg9u-2B4JC7kVtyw/videos"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
