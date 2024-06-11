@@ -85,8 +85,6 @@ Also I am really focused on self development and "outside profession" hobbies an
 
 ---
 ## Things I am doing rght now
-**Learning:** The Web Developer Bootcamp 2022 (https://www.udemy.com/course-dashboard-redirect/?course_id=625204) </br>
-**Working on:** My first Personal Website: https://alpha.kts.vspj.cz/~kurak/</br>
 **WIP Personal Site**: https://migelusmaximus.github.io/https-migelusmaximus.github.io-/index.html</br>
 
 
