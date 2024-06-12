@@ -67,6 +67,14 @@ Also I am really focused on self development and "outside profession" hobbies an
 <br>
 <br>
 
+---
+## My Fun Projects
+
+Little Game for School - WinForms C# - [WinForms Game Github Repo](https://github.com/MigelusMaximus/WindowsFormsGame)
+
+Setting Up Local AI Assistant - [Local AI Github Repository](https://github.com/MigelusMaximus/Local-AI)
+
+
 
 <!-- Games I play -->
 ---
@@ -86,6 +94,7 @@ Also I am really focused on self development and "outside profession" hobbies an
 ---
 ## Things I am doing rght now
 **WIP Personal Site**: https://migelusmaximus.github.io/https-migelusmaximus.github.io-/index.html</br>
+
 
 
 <!--
