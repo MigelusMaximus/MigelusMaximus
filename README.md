@@ -76,6 +76,7 @@ Setting Up Local AI Assistant - [Local AI Github Repository](https://github.com/
 
 
 
+
 <!-- Games I play -->
 ---
 ### Games I play
@@ -92,8 +93,8 @@ Setting Up Local AI Assistant - [Local AI Github Repository](https://github.com/
 <br>
 
 ---
-## Things I am doing rght now
-**WIP Personal Site**: https://migelusmaximus.github.io/https-migelusmaximus.github.io-/index.html</br>
+## Things I am doing right now
+[**WIP Personal Site**](https://migelusmaximus.github.io/https-migelusmaximus.github.io-/index.html)</br>
 
 
 
