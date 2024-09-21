@@ -3,23 +3,18 @@
 # 👑 Migelus Maximus 🗡
 </div>
 
-**` NOT UP TO DATE - WIP Section due to beeing Outdated, was made a long time ago`** 
+**` Currently Working on Skill Development and Personal Projects `** 
 
 
-Right now I am not yet a skillfull fellow, but rather a person ready to learn tons of new skills and ready to gather lots of experience.
-I am currently learning and leaning towards "Basic Web Development" as well as an easy python programming, but i am hoping to learn a lot more in future.
-Also I am really focused on self development and "outside profession" hobbies and skills.
+I am a dedicated learner focused on expanding my skills in web development and Python programming. I am passionate about building projects that solve real-world problems and improving my knowledge in various technical domains
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  <a href="https://www.linkedin.com/in/michal-kur%C3%A1k-12a646200" target="_blank"><img width = 30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-  <a href="https://discord.com/users/394960392251768833" alt="Darilin"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  <a href=""><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/michal-kur%C3%A1k-12a646200" target="_blank"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <a href="https://discord.com/users/394960392251768833"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <!-- Add more social links here -->
 </p>
+
 
 <br/>
 
