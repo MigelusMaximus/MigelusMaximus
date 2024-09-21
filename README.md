@@ -1,7 +1,4 @@
-<div font-size: 100px;>
-
-# 👑 Migelus Maximus 🗡
-</div>
+<h1 align="center">👑 Migelus Maximus 🗡</h1>
 
 **` Currently Working on Skill Development and Personal Projects `** 
 
@@ -20,7 +17,11 @@ I am a dedicated learner focused on expanding my skills in web development and P
 
 
 
+---
+### GitHub Stats and Activity
 ![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MigelusMaximus&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MigelusMaximus&layout=compact&theme=onedark)
+
 
 <!-- Pantheon Image -->
 <!--
@@ -61,24 +62,25 @@ I am a dedicated learner focused on expanding my skills in web development and P
 
 ---
 ## My Fun Projects
-
-Little Game for School - WinForms C# - [WinForms Game Github Repo](https://github.com/MigelusMaximus/WindowsFormsGame)
-
-Setting Up Local AI Assistant - [Local AI Github Repository](https://github.com/MigelusMaximus/Local-AI)
-
-
+- **Little Game for School - WinForms C#**  
+  A simple C# game built for learning purposes. Utilizes WinForms for the UI and basic game logic.  
+  [GitHub Repo](https://github.com/MigelusMaximus/WindowsFormsGame)
+  
+- **Setting Up Local AI Assistant**  
+  Created a basic AI assistant using Python to handle voice commands and automate simple tasks.  
+  [GitHub Repo](https://github.com/MigelusMaximus/Local-AI)
 
 
 <!-- Games I play -->
 ---
-### Games I play
-<div>
-  <p>
-<a href="https://www.leagueofgraphs.com/summoner/eune/Darilin#championsData-all-queues">
- <img align="left" alt="HTML5" width="60px" style="padding-right:10px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flutris.net%2Fmedia%2Fgames%2Ficons%2Fleagueoflegends-icon.png&f=1&nofb=1&ipt=f7d17f3c5a5f01cde0d74f949e7870e7fe0f74a8d6b3068cddc812e7e3ac85b3&ipo=images"/> 
-  </a>
-  </p>
-</div>
+## Games I Play
+- ![League of Legends](https://img.shields.io/badge/League%20of%20Legends-Diamond%20Player-blue?style=for-the-badge&logo=riot-games)
+- Other games you play...
+
+## Hobbies and Interests
+- Learning new programming languages.
+- Playing strategy games.
+
 
 <br>
 <br>
