@@ -10,9 +10,10 @@ I am a dedicated learner focused on expanding my skills in web development and P
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/michal-kur%C3%A1k-12a646200" target="_blank"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-  <a href="https://discord.com/users/394960392251768833"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.com/users/394960392251768833" target="_blank"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   <!-- Add more social links here -->
 </p>
+
 
 
 <br/>
@@ -21,8 +22,8 @@ I am a dedicated learner focused on expanding my skills in web development and P
 
 ---
 ### GitHub Stats and Activity
-![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MigelusMaximus&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MigelusMaximus&layout=compact&theme=onedark)
+![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MigelusMaximus&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MigelusMaximus&layout=compact&theme=radical)
 
 
 <!-- Pantheon Image -->
