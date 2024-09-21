@@ -1,10 +1,12 @@
 <h1 align="center">👑 Migelus Maximus 🗡</h1>
 
+<div align="center">
+  
 **` Currently Working on Skill Development and Personal Projects `** 
 
 
 I am a dedicated learner focused on expanding my skills in web development and Python programming. I am passionate about building projects that solve real-world problems and improving my knowledge in various technical domains
-
+</div>
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/michal-kur%C3%A1k-12a646200" target="_blank"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
