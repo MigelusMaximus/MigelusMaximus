@@ -85,11 +85,9 @@
 ---
 ## Games I Play
 - ![League of Legends](https://img.shields.io/badge/League%20of%20Legends-Diamond%20Player-blue?style=for-the-badge&logo=riot-games)
-- More games you play...
 
 ## Hobbies and Interests
 - 📚 Learning new programming languages.
-- 🧩 Playing strategy games.
 - 🏋️‍♂️ Fitness and outdoor activities.
 
 
