@@ -1,6 +1,6 @@
 <h1 align="center">👑 Migelus Maximus 🗡</h1>
 <div align="center">
-  <strong> `Currently Working on Skill Development and Personal Projects` </strong>
+ `Currently Working on Skill Development and Personal Projects` 
   <br><br>
   I am a dedicated learner focused on expanding my skills in web development and Python programming. I am passionate about building projects that solve real-world problems and improving my knowledge in various technical domains.
 </div>
