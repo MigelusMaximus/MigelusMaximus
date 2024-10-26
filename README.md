@@ -54,13 +54,30 @@
 <!-- Languages Section -->
 ---
   
-### Languages and Tools
+### Web
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/HTML5-Intermediate-orange?style=for-the-badge&logo=html5" alt="HTML5" style="margin: 5px;"/>
   <img src="https://img.shields.io/badge/CSS3-Intermediate-blue?style=for-the-badge&logo=css3" alt="CSS3" style="margin: 5px;"/>
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Python-Advanced-brightgreen?style=for-the-badge&logo=python" alt="Python" style="margin: 5px;"/>
 </div>
+
+### Programming Languages
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Python-Advanced-blue?style=for-the-badge&logo=python" alt="Python" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/C-Advanced-brightgreen?style=for-the-badge&logo=c" alt="C" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=c%2B%2B" alt="C++" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/C%23-Intermediate-green?style=for-the-badge&logo=c-sharp" alt="C#" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/Java-Intermediate-brown?style=for-the-badge&logo=java" alt="Java" style="margin: 5px;"/>
+</div>
+
+### Tools
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Git-Advanced-red?style=for-the-badge&logo=git" alt="Git" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/Docker-Intermediate-blue?style=for-the-badge&logo=docker" alt="Docker" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/VS%20Code-Intermediate-brightgreen?style=for-the-badge&logo=visual-studio-code" alt="VS Code" style="margin: 5px;"/>
+</div>
+
+
 
 
 <br>
