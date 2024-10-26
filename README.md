@@ -58,7 +58,7 @@
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/HTML5-Intermediate-orange?style=for-the-badge&logo=html5" alt="HTML5" style="margin: 5px;"/>
   <img src="https://img.shields.io/badge/CSS3-Intermediate-blue?style=for-the-badge&logo=css3" alt="CSS3" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-Beginner-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" style="margin: 5px;"/>
   <img src="https://img.shields.io/badge/Python-Advanced-brightgreen?style=for-the-badge&logo=python" alt="Python" style="margin: 5px;"/>
 </div>
 
