@@ -128,7 +128,7 @@ S Tier - Best,  E Tier - Worst  (F Tier is for stuff I know, but I want to learn
     </tr>
     <tr>
       <td><b>F&nbsp;❓</b></td>
-      <td>-</td>
+      <td> <img src="https://img.shields.io/badge/Three.js-blue?style=for-the-badge&logo=Three.js" alt="Three.js" style="margin: 5px;"/></td>
       <td><b>Want to Learn</b> - Skills I plan to learn.</td>
     </tr>
   </tbody>
@@ -165,13 +165,20 @@ S Tier - Best,  E Tier - Worst  (F Tier is for stuff I know, but I want to learn
 <br>
 
 ---
-## Games I Play
-- ![League of Legends](https://img.shields.io/badge/League%20of%20Legends-Diamond%20Player-blue?style=for-the-badge&logo=riot-games)
+
 
 ## Hobbies and Interests
-- 📚 Learning.
-- 🏋️‍♂️ Working Out.
-- 🏃‍♂️ Running.
+- 📚 Learning
+- 🏋️‍♂️ Working Out
+- 🏃‍♂️ Running
+- 🍵 Tea
+- 📖 Reading
+- 🧘‍♂️ Meditation
+- 🚶‍♂️ Hiking
+- 🪴 Plants
+- 🤸‍♂️ Yoga
+- 🧘 Breath Work
+- 🎮 League of Legends
 
 
 <br>
@@ -184,6 +191,10 @@ S Tier - Best,  E Tier - Worst  (F Tier is for stuff I know, but I want to learn
   [Visit my site](https://migelusmaximus.github.io/https-migelusmaximus.github.io-/index.html)
 
 
+
+
+## Games I Play
+- ![League of Legends](https://img.shields.io/badge/League%20of%20Legends-Diamond%20Player-blue?style=for-the-badge&logo=riot-games)
 <!--
 **MigelusMaximus/MigelusMaximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
