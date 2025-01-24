@@ -3,17 +3,25 @@
  
  `Currently Working on Skill Development and Personal Projects`
   <br><br>
-  Hello ! My name is Michal. I love learning, either new things are things that I managed to forget. I think self improvement is a crucial component of everyday life.
+  Hello there ! 👋 My name is **Michal**.
+  I’m passionate about **self-improvement**, **programming**, and **creating fun projects**.  
+  Every day is a new opportunity to learn, grow, and develop skills. I believe in the power of **continuous learning** to drive personal and professional success.
   </div>
 
 <!-- Social icons section -->
+<h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/michal-kur%C3%A1k-12a646200" target="_blank"><img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="margin-right: 10px;" /></a>
-  <a href="https://discord.com/users/394960392251768833" target="_blank"><img width="32px" src="https://i.imgur.com/OViZO8J.png" style="margin-left: 10px;" /></a>
-  <a href="https://migelusmaximus.github.io/https-migelusmaximus.github.io-/index.html" target="_blank"><img width="32px" src="https://img.icons8.com/?size=100&id=VJz2Ob51dvZJ&format=png&color=000000" style="margin-left: 10px;" /></a>
- <i class="fa-brands fa-github"></i>
- 
+  <a href="https://www.linkedin.com/in/michal-kur%C3%A1k-12a646200" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/394960392251768833" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://migelusmaximus.github.io/https-migelusmaximus.github.io-/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Site-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Personal Site" />
+  </a>
 </p>
+
 
 
 
@@ -23,10 +31,15 @@
 
 
 ---
-<h3 align="center"> GitHub Stats and Activity </h3>
+<h3 align="center">📊 GitHub Stats and Activity</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MigelusMaximus&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Michal's GitHub Stats" style="height: 200px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigelusMaximus&layout=compact&theme=radical" alt="Top Languages" style="height: 200px;"/>
+  <br>
+
+
+
+
 </div>
 
 
@@ -64,13 +77,16 @@
 <h1>My Skills Tier List</h1> 
 </div>
 
-This is my list of languages. 
-<br>
-It is based on how good I think I know the languages according to each other, not how good I actually am (So S tier doesn't mean I am the best C programmer for example).
-<br>
-S Tier - Best,  E Tier - Worst  (F Tier is for stuff I know, but I want to learn, so I keep track of stuff I need to learn in the future)
-<br>
-<br>
+### Skills Tier Description:
+- **S 🏆**: Skills where I excel the most.
+- **A ⭐**: Advanced proficiency.
+- **B 🥈**: Strong working knowledge.
+- **C 🥉**: Intermediate knowledge.
+- **D 📖**: Basic understanding.
+- **E 🔰**: Just starting to explore.
+- **F ❓**: Skills I want to learn.
+
+
 <table>
   <thead>
     <tr>
@@ -186,15 +202,21 @@ S Tier - Best,  E Tier - Worst  (F Tier is for stuff I know, but I want to learn
 <br>
 
 ---
-## Things I am Doing Right Now
-- **WIP Personal Site**: Working on creating a comprehensive portfolio to showcase my projects and skills -> I need to rework it, I am learning Three.js to make a 3d Portfolio.  
+## ⚡ Current Focus
+
+- 🎯 **WIP Personal Site**: Working on creating a comprehensive portfolio to showcase my projects and skills.  
+  🌟 Currently learning **Three.js** to make it more interactive and visually stunning.  
   [Visit my site](https://migelusmaximus.github.io/https-migelusmaximus.github.io-/index.html)
 
 
 
 
-## Games I Play
-- ![League of Legends](https://img.shields.io/badge/League%20of%20Legends-Diamond%20Player-blue?style=for-the-badge&logo=riot-games)
+
+## 🎮 Games I Play
+<p >
+  <img src="https://img.shields.io/badge/League%20of%20Legends-Diamond%20Player-blue?style=for-the-badge&logo=riot-games" alt="League of Legends" />
+</p>
+
 <!--
 **MigelusMaximus/MigelusMaximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
