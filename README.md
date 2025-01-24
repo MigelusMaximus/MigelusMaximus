@@ -180,7 +180,7 @@ S Tier - Best,  E Tier - Worst  (F Tier is for stuff I know, but I want to learn
 
 ---
 ## Things I am Doing Right Now
-- **WIP Personal Site**: Working on creating a comprehensive portfolio to showcase my projects and skills.  
+- **WIP Personal Site**: Working on creating a comprehensive portfolio to showcase my projects and skills -> I need to rework it, I am learning Three.js to make a 3d Portfolio.  
   [Visit my site](https://migelusmaximus.github.io/https-migelusmaximus.github.io-/index.html)
 
 
