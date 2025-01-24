@@ -3,8 +3,8 @@
  
  `Currently Working on Skill Development and Personal Projects`
   <br><br>
-  I am a dedicated learner focused on expanding my skills in web development and Python programming. I am passionate about building projects that solve real-world problems and improving my knowledge in various technical domains.
-</div>
+  Hello ! My name is Michal. I love learning, either new things are things that I managed to forget. I think self improvement is a crucial component of everyday life.
+  </div>
 
 <!-- Social icons section -->
 <p align="center">
