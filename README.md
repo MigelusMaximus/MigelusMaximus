@@ -1,14 +1,17 @@
+<br>
 <h1 align="center">👑 Migelus Maximus 🗡</h1>
 <div align="center">
  
  `Currently Working on Skill Development and Personal Projects`
-  <br><br>
+  <br>
+  <br>
   Hello there ! 👋 My name is **Michal**.
   I’m passionate about **self-improvement**, **programming**, and **creating fun projects**.  
   Every day is a new opportunity to learn, grow, and develop skills. I believe in the power of **continuous learning** to drive personal and professional success.
   </div>
 
 <!-- Social icons section -->
+
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/michal-kur%C3%A1k-12a646200" target="_blank">
@@ -17,32 +20,14 @@
   <a href="https://discord.com/users/394960392251768833" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://migelusmaximus.github.io/https-migelusmaximus.github.io-/index.html" target="_blank">
+ <!-- <a href="https://migelusmaximus.github.io/https-migelusmaximus.github.io-/index.html" target="_blank">
     <img src="https://img.shields.io/badge/My%20Site-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Personal Site" />
   </a>
+ -->
 </p>
 
-
-
-
-
-<br/>
-
-
-
----
-<h3 align="center">📊 GitHub Stats and Activity</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MigelusMaximus&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Michal's GitHub Stats" style="height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigelusMaximus&layout=compact&theme=radical" alt="Top Languages" style="height: 200px;"/>
-  <br>
-
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MigelusMaximus&show_icons=true)
-
-
-
 </div>
+<br>
 
 
 <!-- Pantheon Image -->
@@ -78,6 +63,7 @@
 <div align="center">
 <h1>My Skills Tier List</h1> 
 </div>
+
 
 ### Skills Tier Description:
 - **S 🏆**: Skills where I excel the most.
