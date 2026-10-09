@@ -187,15 +187,14 @@
 <br>
 <br>
 
----
+<!--
 ## ⚡ Current Focus
 
 - 🎯 **WIP Personal Site**: Working on creating a comprehensive portfolio to showcase my projects and skills.  
   🌟 Currently learning **Three.js** to make it more interactive and visually stunning.  
   [Visit my site](https://migelusmaximus.github.io/https-migelusmaximus.github.io-/index.html)
 
-
-
+-->
 
 
 ## 🎮 Games I Play
