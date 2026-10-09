@@ -2,7 +2,7 @@
 <h1 align="center">Michal Kurák </h1>
 <div align="center">
  
- `Currently Working on Skill Development and Personal Projects`
+ `Currently Working as Sys Admin in IMTM`
   <br>
   <br>
   Hello there ! 👋 My name is **Michal**.
