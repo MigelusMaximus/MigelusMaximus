@@ -1,5 +1,5 @@
 <br>
-<h1 align="center">👑 Migelus Maximus 🗡</h1>
+<h1 align="center">Michal Kurák </h1>
 <div align="center">
  
  `Currently Working on Skill Development and Personal Projects`
